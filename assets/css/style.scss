@@ -36,3 +36,62 @@ a {
   background: #f8f9fa;
   border-bottom: 1px solid #e5e5e5;
 }
+
+/* CV Layout */
+.cv-body {
+  font-family: "Inter", sans-serif;
+  background: #f5f7fa;
+  margin: 0;
+  padding: 0;
+}
+
+.cv-container {
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  gap: 40px;
+}
+
+.cv-sidebar {
+  width: 280px;
+  background: #003366;
+  color: white;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.cv-sidebar h2,
+.cv-sidebar h3 {
+  color: #fff;
+}
+
+.cv-sidebar ul {
+  padding-left: 20px;
+}
+
+.cv-photo {
+  width: 140px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.cv-main {
+  flex: 1;
+  background: white;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .cv-container {
+    flex-direction: column;
+  }
+
+  .cv-sidebar {
+    width: 100%;
+  }
+}
+
