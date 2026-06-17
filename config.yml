@@ -1,0 +1,9 @@
+navbar:
+  - name: "Home"
+    link: "/"
+  - name: "CV"
+    link: "/cv"
+  - name: "Portfolio"
+    link: "/portfolio"
+  - name: "Contact"
+    link: "mailto:tricemuz@gmail.com"
