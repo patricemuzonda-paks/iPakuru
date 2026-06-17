@@ -10,7 +10,7 @@ title: "Welcome to iPakuru"
 </div>
 
 <!-- Two‑Column Hero Section -->
-<div style="display: flex; align-items: center; justify-content: center; gap: 40px; padding: 40px 0;">
+<div class="hero">
 
   <div>
     <img src="assets/img/profile.jpg" alt="Patrice Muzonda" width="180" style="border-radius: 50%;">
@@ -18,8 +18,6 @@ title: "Welcome to iPakuru"
 
   <div style="max-width: 500px;">
     <h1>Patrice Muzonda</h1>
-
-
     <h3 style="color: #555;">Senior Business Consultant • Internal Audit • Risk Management</h3>
     <p>
       I help organizations strengthen governance, optimize processes, and make evidence‑based decisions.
@@ -32,6 +30,7 @@ title: "Welcome to iPakuru"
   </div>
 
 </div>
+
 
 ---
 
