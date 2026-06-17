@@ -32,7 +32,7 @@ title: "Welcome to iPakuru"
 ---
 
 ## 🔗 Quick Links
-- [View My CV](cv) 
+- [View My CV](cv.md) 
 - [Explore My Portfolio](portfolio)
 - [Contact Me](mailto:patricemuz@gmail.com)
 
