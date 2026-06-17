@@ -36,9 +36,15 @@ title: "Welcome to iPakuru"
 ---
 
 ## 🔗 Quick Links
-- [View My CV](cv)
+- [View My CV](cv) 
 - [Explore My Portfolio](portfolio)
-- [Contact Me](mailto:tricemuz@gmail.com)
+- [Contact Me](mailto:patricemuz@gmail.com)
+
+ <a href="assets/files/Patrice_Muzonda_CV.pdf" download
+   style="display: inline-block; margin-top: 20px; padding: 12px 24px; background: #003366; color: white; border-radius: 6px; text-decoration: none;">
+  ⬇ Download CV (PDF)
+</a>
+ 
 
 © 2026 Patrice Muzonda — All rights reserved.
 
