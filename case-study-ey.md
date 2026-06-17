@@ -4,7 +4,7 @@ title: "Case Study — SOX & Internal Controls Optimization"
 ---
 
 # 🧾 SOX & Internal Controls Optimization  
-**Client:** Global Financial Institutions (EY GDS)  
+**Client:** EY Global Delivery Services (International Big 4)  
 **Role:** Senior Business Consultant  
 **Duration:** Jun 2022 – Sep 2023  
 
