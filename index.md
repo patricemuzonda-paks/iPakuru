@@ -19,6 +19,7 @@ title: "Welcome to iPakuru"
   <div style="max-width: 500px;">
     <h1>Patrice Muzonda</h1>
 
+
     <h3 style="color: #555;">Senior Business Consultant • Internal Audit • Risk Management</h3>
     <p>
       I help organizations strengthen governance, optimize processes, and make evidence‑based decisions.
@@ -40,6 +41,7 @@ title: "Welcome to iPakuru"
 - [Contact Me](mailto:tricemuz@gmail.com)
 
 © 2026 Patrice Muzonda — All rights reserved.
+
 
 
 
