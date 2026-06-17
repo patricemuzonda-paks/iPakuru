@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Curriculum Vitae"
+layout: cv
+title: Curriculum Vitae
 ---
 
 # 📄 Curriculum Vitae
