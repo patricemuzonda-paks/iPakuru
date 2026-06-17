@@ -6,7 +6,7 @@ title: "Welcome to iPakuru"
 <!-- Background Banner -->
 <div style="background: linear-gradient(135deg, #003366, #0057b8); padding: 60px 0; text-align: center; color: white;">
   <h1 style="margin: 0; font-size: 42px;">Welcome to iPakuru</h1>
-  <p style="margin-top: 10px; font-size: 18px;">A professional portfolio by Patrice Muz</p>
+  <p style="margin-top: 10px; font-size: 18px;">A professional portfolio by Patrice Muzonda</p>
 </div>
 
 <!-- Two‑Column Hero Section -->
@@ -17,7 +17,7 @@ title: "Welcome to iPakuru"
   </div>
 
   <div style="max-width: 500px;">
-    <h1>Patrice Muz</h1>
+    <h1>Patrice Muzonda</h1>
     <h3 style="color: #555;">Senior Business Consultant • Internal Audit • Risk Management</h3>
     <p>
       I help organizations strengthen governance, optimize processes, and make evidence‑based decisions.
@@ -39,6 +39,5 @@ title: "Welcome to iPakuru"
 - [Contact Me](mailto:tricemuz@gmail.com)
 
 
-<footer style="margin-top: 60px; padding: 20px; text-align: center; color: #666; font-size: 14px;">
-  © 2026 Patrice Muz — All rights reserved. Built with GitHub Pages.
-</footer>
+© 2026 Patrice Muzonda — All rights reserved.
+
