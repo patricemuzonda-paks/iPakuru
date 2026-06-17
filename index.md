@@ -3,20 +3,37 @@ layout: home
 title: "Welcome to iPakuru"
 ---
 
-# 👋 Hi, I'm Patrice
+<!-- Background Banner -->
+<div style="background: linear-gradient(135deg, #003366, #0057b8); padding: 60px 0; text-align: center; color: white;">
+  <h1 style="margin: 0; font-size: 42px;">Welcome to iPakuru</h1>
+  <p style="margin-top: 10px; font-size: 18px;">A professional portfolio by Patrice Muz</p>
+</div>
 
-Welcome to **iPakuru**, my personal website where I share my work, experience, and projects.  
-This site brings together my **CV**, **portfolio**, and **professional profile** in one place.
+<!-- Two‑Column Hero Section -->
+<div style="display: flex; align-items: center; justify-content: center; gap: 40px; padding: 40px 0;">
 
-## 🔍 What you’ll find here
-- My background, skills, and experience  
-- Selected projects I’ve worked on  
-- A clean, easy-to-read CV  
-- Ways to connect with me  
+  <div>
+    <img src="assets/img/profile.jpg" alt="Patrice Muz" width="180" style="border-radius: 50%;">
+  </div>
 
-## 🚀 Quick Links
-- [View My CV](cv.md)
-- [Explore My Portfolio](portfolio.md)
-- [Contact Me](mailto:your-email@example.com)
+  <div style="max-width: 500px;">
+    <h1>Patrice Muz</h1>
+    <h3 style="color: #555;">Senior Business Consultant • Internal Audit • Risk Management</h3>
+    <p>
+      I help organizations strengthen governance, optimize processes, and make evidence‑based decisions.
+      Explore my CV, portfolio, and case studies below.
+    </p>
 
-Thanks for visiting — enjoy exploring.
+    <a href="cv" style="display: inline-block; margin-top: 10px; padding: 10px 20px; background: #0057b8; color: white; border-radius: 6px; text-decoration: none;">
+      View My CV
+    </a>
+  </div>
+
+</div>
+
+---
+
+## 🔗 Quick Links
+- [View My CV](cv)
+- [Explore My Portfolio](portfolio)
+- [Contact Me](mailto:tricemuz@gmail.com)
