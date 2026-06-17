@@ -34,7 +34,7 @@ Master in Strategic Management, Chinhoyi University of Technology — Zimbabwe
   2010". 
 
 
-Bachelor (Hons) in Applied Accounting, 
+Bachelor (Hons) in Applied Accounting 
 Oxford Brookes University - United Kingdom
 - Relevant coursework: Financial reporting, corporate finance, management accounting, and business
   analysis.
