@@ -37,3 +37,7 @@ title: "Welcome to iPakuru"
 - [View My CV](cv)
 - [Explore My Portfolio](portfolio)
 - [Contact Me](mailto:tricemuz@gmail.com)
+
+<footer style="margin-top: 60px; padding: 20px; text-align: center; color: #666; font-size: 14px;">
+  © 2026 Patrice Muz — All rights reserved. Built with GitHub Pages.
+</footer>
