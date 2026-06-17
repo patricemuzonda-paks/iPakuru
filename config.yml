@@ -7,3 +7,4 @@ navbar:
     link: "/portfolio"
   - name: "Contact"
     link: "mailto:tricemuz@gmail.com"
+theme: jekyll-theme-minimal
