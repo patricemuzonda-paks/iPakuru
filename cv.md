@@ -13,23 +13,28 @@ title: "Curriculum Vitae"
 
 ---
 # ⭐ Professional Summary
-Senior Business Consultant with 8+ years’ experience in banking, development finance and Big Four consulting. Specialized in **internal audit**, **financial controls**, **risk management**, **SOX**, and **EU supervisory requirements**. Strong exposure to financial statements, credit risk, operational risk and regulatory compliance. Certified in internal controls, fraud examination and data analytics. Passionate about using quantitative evidence to evaluate processes, optimise performance and support strategic decisions in multicultural environments. Currently seeking to deepen theoretical foundations in finance and economics and transition into analytical roles in the European financial sector.
+Internal Audit leader with over eight years of experience delivering risk‑based audits, SOX programs, and regulatory engagements across multinational financial institutions and Big Four consulting. Skilled in planning, supervising, and executing audits that evaluate internal controls, financial reporting, and operational effectiveness. Proven ability to coach and develop audit teams, manage performance, and drive high‑quality deliverables in line with professional standards. Strong analytical mindset, attention to detail, and critical‑thinking skills that support a culture of trust, collaboration, and accountability. Certified in internal controls, fraud examination, data analytics, and SOX testing with ongoing CISA studies to strengthen IT audit capabilities. Experienced in partnering with senior leadership, communicating audit results, and contributing to continuous improvement.
 
 
 ## 🎓 Education
 Postgraduate program, Transition Manager Academy
 Kozminski University - Warsaw, Poland
-- Relevant coursework: Organisational transition, leadership, and communication in complex systems.
+- Relevant coursework: Leadership, project management, organisational transition, virtual,
+  multicultural team management, strategic communication, facilitation, coaching and mentoring,
+  creative problem solving and visual thinking.
 - Thesis: "Leveraging Artificial Intelligence (AI) in Transition Programme Management: A Project
   Management Institute (PMI) Talent Triangle® Framework for Organisational Transformation."
 
 
-Master in Strategic Management   
-Chinhoyi University of Technology — Zimbabwe
+Master in Strategic Management, Chinhoyi University of Technology — Zimbabwe
 - Relevant coursework:  Corporate governance, financial management, business research methods,
   organisational performance, strategic analysis, and change management.
+- Thesis: "An Analysis of the Impact of Inflationary Volatility on the Long-term Performance of
+  Development Finance Institutions (DFIS). A Case Study of DFIs in Zimbabwe for the period 2000 to
+  2010". 
 
-Bachelor (Hons) in Applied Accounting 
+
+Bachelor (Hons) in Applied Accounting, 
 Oxford Brookes University - United Kingdom
 - Relevant coursework: Financial reporting, corporate finance, management accounting, and business
   analysis.
@@ -90,7 +95,7 @@ Harare, Zimbabwe | *Apr 2014 – May 2021*
   fraud by **60%** and compliance breaches by **50%**.  
 - Reported audit results and risk analyses to senior management, audit committees and regulators.  
 - Coordinated with external auditors and supervisory bodies, maintaining **100% adherence** to audit
-  timelines and regulatory requirements.## 💼 Professional Experience
+  timelines and regulatory requirements.
 
 ---
 # 🛠 Skills
@@ -115,8 +120,8 @@ Harare, Zimbabwe | *Apr 2014 – May 2021*
 
 ## 🏆 Certifications & Awards
 - Certified Fraud Examiner (CFE) — ACFE, USA
-- Certified Sarbanes-Oxley Expert -
-- Certified Internal Controls Auditor (CICA) -
+- Certified Sarbanes-Oxley Expert (CSOE)- SOXCPA, USA
+- Certified Internal Controls Auditor (CICA) - TheIIC, USA
     
 ---
 
