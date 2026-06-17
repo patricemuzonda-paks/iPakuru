@@ -24,9 +24,6 @@ title: "Welcome to iPakuru"
       Explore my CV, portfolio, and case studies below.
     </p>
 
-    <a href="cv" style="display: inline-block; margin-top: 10px; padding: 10px 20px; background: #0057b8; color: white; border-radius: 6px; text-decoration: none;">
-      View My CV
-    </a>
   </div>
 
 </div>
