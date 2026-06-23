@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Welcome to iPakuru"
+title: "Welcome to Patrice_Muzonda"
 ---
 
 <!-- Background Banner -->
